@@ -5,7 +5,7 @@
         "game": []
     },
     {
-        "package": "pyplanet-roll-dice",
+        "package": "pyplanet-roll_dice",
         "app": "skybaks.roll_dice",
         "game": []
     },

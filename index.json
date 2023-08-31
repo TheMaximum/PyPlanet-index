@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "package": "pyplanet-currentcps",
+        "app": "teemann.currentcps",
+        "game": []
+    },
+    {
+        "package": "pyplanet-roll-dice",
+        "app": "skybaks.roll_dice",
+        "game": []
+    },
+    {
+        "package": "pyplanet-muffins",
+        "app": "skybaks.muffins",
+        "game": []
+    }
+]
